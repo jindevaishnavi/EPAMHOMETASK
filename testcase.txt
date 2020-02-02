@@ -53,21 +53,3 @@ n = 9;
 
  
   1    2    3   4    5                              5->4->3->2->1->null
-
-
-
-
-
-cd ~/workspace/vaishu0822-vj-vj-ME_QEATS_REVIEW_MP/
-
-
-# Ensure there are no uncommitted files while running git status
-
-git status
-
-
-# Setup up the remote repository & pull the code stubs for the next module.
-
-AtfQ9vk40K5cf70DqqJTa33Jh3mmFe1w-iLfzqJGfcmQ4oCkSAvHgDAAAMvtRn3QUMHAutgAAAAA
-board_id  = 848787929710494098
-https://cleobuttera.com/wp-content/uploads/2019/06/kk-ice-cream-full-mood-1-700x1050.jpg
